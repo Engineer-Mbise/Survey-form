@@ -1,0 +1,40 @@
+h1{
+    text-decoration: underline;
+ color: blue;
+   
+}
+.backpic{
+background-color: beige;
+}
+.coloring1{
+   color: darkturquoise;
+    font-family: cursive;
+}
+.coloring2{
+    color: teal;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.coloring3{
+    color: darkgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.coloring4{
+    color: crimson;
+    font-family: fantasy;
+}
+.coloring5{
+    color: chartreuse;
+    font-family: cursive;
+}
+.coloring6{
+    color: darkcyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.coloring7{
+    color: teal;
+    font-family: cursive;
+}
+.coloring8{
+    color: darkolivegreen;
+    font-family: cursive;
+}
